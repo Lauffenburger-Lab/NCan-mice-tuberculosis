@@ -63,8 +63,13 @@ Analysis was carried out under macOS Sonoma 14.2.1 with R run via R Studio Versi
 To generate any figures of interest, download the appropriate data from the Data folder, then run Load_functions.R followed by the appropriate R Markdown. Correspondence of markdowns to figures is as follows, with several additional intermediate figures generated per markdown:
 
 Week_5_analysis.Rmd: Figure 3 PLSDA & blocked PCA, Figure 9, Figure S2A, Figure S5 A, B, & C
+
 Week_2_analysis.Rmd: Figure S2 B, C, & D
+
 Ligand_Receptor_Interactions.Rmd: Figure 6
+
 COMPASS_plotting.Rmd: Figure 2 & Figure S1 COMPASS results
+
 SELECT-seq_Translation.Rmd: Figure 10, Figure S5 TransCompR results
+
 Baseline_analysis.Rmd: Figure 4 PLSDA, Figure S2 E & F
